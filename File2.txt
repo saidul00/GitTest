@@ -1,4 +1,14 @@
 Vim Editor file2 text file Hello word
 Edit file in VIM 
 Push it to github using SSH.
-Fhello from Vim 
+Hello From Vim git bsh 
+
+
+public class vim {
+
+	public static void main (String args []){
+
+	System.out.println("Hello from vim a text editor in git bash the windows iplemenatation of Linux terminal")
+
+	}
+}
